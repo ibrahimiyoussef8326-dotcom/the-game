@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.lab{
+    display: block;
+   
+}
+.inp{
+     display: block; 
+     width: 20%;
+     margin: 4% 40% 3%;
+
+}
